@@ -34,7 +34,7 @@ Instructions:
 
 7. The link you receive by email will send you to your script. If all goes well you should see the text 'Authentication complete'
 
-8. On you Spreadsheet ensure you have a tab called "DataDump".
+8. On you Spreadsheet ensure you have a tab for each account, called "DataDump_0", "DataDump_1" and so on.
 
 9. Run the script 'getFullAccountData()' this should populate the tab.
 
